@@ -1,8 +1,13 @@
-# React + Vite
+# React + Vite - useReducer Hook
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is part of the In-tech-gration workshop, aimed at practicing the use of the useReducer hook in React. It demonstrates a simple Todo List application where users can add tasks, mark tasks as completed, and delete tasks.
 
-Currently, two official plugins are available:
+## Introduction
+The Todo List application utilizes the useReducer hook in React to manage state and handle actions related to adding, deleting, and toggling the completion status of tasks. This exercise helps in understanding how to use useReducer as an alternative to managing complex state logic with useState.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Add new tasks to the list.
+- Delete tasks from the list.
+- Mark tasks as completed by clicking on them.
+ 
+🚀 Happy Coding! 🚀
