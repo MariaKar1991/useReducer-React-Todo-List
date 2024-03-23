@@ -10,4 +10,5 @@ The Todo List application utilizes the useReducer hook in React to manage state 
 - Delete tasks from the list.
 - Mark tasks as completed by clicking on them.
 
+
 🚀 Happy Coding! 🚀
