@@ -1,0 +1,9 @@
+.container {
+  justify-content: center;
+  align-items: center;
+}
+
+.todos {
+  text-align: center;
+  margin-top: 100px;
+}
